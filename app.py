@@ -1,5 +1,5 @@
-a = ("enter a number")
+a = int(input ("enter a number"))
 if a % 2 == 0:
-    print ("if is an even number")
+    print ("it is an even number")
 else
-     print ("if is an odd number")
+     print ("its is an odd number")
